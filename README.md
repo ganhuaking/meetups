@@ -1,4 +1,4 @@
-# Meetups
+# About
 
 我們是[蔣幹話軟體](https://ganhuaking.tw/)
 
